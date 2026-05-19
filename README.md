@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/poison-kisses/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Poison Kisses](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/poison-kisses/) |
+| **Get License** | [Official Music Licensing for Poison Kisses](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/poison-kisses/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Naina cho pilade poison kisses, you know it
+> Dil mera karda ae wild wishes, you know it
+> Zulfan de jaal vich tera magic chalda
+> Hosh main gawa betha, you are so vicious, you know it
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
