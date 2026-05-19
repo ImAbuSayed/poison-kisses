@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/poison-kisses/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Poison Kisses](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/poison-kisses/) |
+| **Get License** | [Secure Licensing Rights for Poison Kisses](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/poison-kisses/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2ee2bd5babcce6d6864bdcbd1bdd5417bf635b16e383783e2f887e84018f43a6` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

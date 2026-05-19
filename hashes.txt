@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Poison Kisses
+
+This log tracks the cryptographic history and versioning for the song **Poison Kisses** (poison-kisses).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T00:29:40.270326 | `v1` | `2ee2bd5babcce6d6864bdcbd1bdd5417bf635b16e383783e2f887e84018f43a6` | `a389b728dad3d5cd2f513fd09dc973ce7b5bd3ba63bcbc76170e1a35d60696f3` | `2026-05-20_poison-kisses-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
